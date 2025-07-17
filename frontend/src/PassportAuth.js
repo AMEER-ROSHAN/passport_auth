@@ -10,7 +10,7 @@ const PassportAuth = () => {
   const [contract, setContract] = useState(null);
   const [isCreate, setIsCreate] = useState(true); 
 
-  const contractAddress = '0x106FB96e97f761F441317d370CaB1f8f38215e3a';
+  const contractAddress = '0x8A3f69D83666C3a5527583B349e26Dbfa84E6719';
   const contractABI = [
     {
       constant: true,
