@@ -8506,12 +8506,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0x8A3f69D83666C3a5527583B349e26Dbfa84E6719",
-      "transactionHash": "0xdc6273fe050df16ae01454469f947ea1c464b0c9255761f9de1b8100490890c1"
+      "address": "0x1971a71d3e6712619e6Ea5051A127c239c71ED0D",
+      "transactionHash": "0x9e98fbe3c526c71b987fa317f9b269db6efe050490bcb7b0d1b0b5b7e0dc9be5"
     }
   },
   "schemaVersion": "3.4.16",
-  "updatedAt": "2025-07-17T14:45:32.187Z",
+  "updatedAt": "2025-07-21T11:13:39.926Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",
